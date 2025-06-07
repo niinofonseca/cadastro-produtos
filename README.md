@@ -1,40 +1,40 @@
-# 🛍️ Cadastro de Produtos - Java Console
+# 🛍️ Product Registration - Java Console
 
-Este é um projeto simples em Java, feito para praticar os conceitos básicos da linguagem, como classes, objetos, listas, entrada de dados com Scanner e manipulação de menus no terminal.
+This is a simple Java project designed to practice the basic concepts of the language, such as classes, objects, lists, input handling with `Scanner`, and menu interaction in the terminal.
 
-> 💻 Desenvolvido por **Camila Ester**.
-
----
-
-## ✨ Funcionalidades
-
-- ✅ Cadastro de produtos (nome, tipo e preço)
-- ✅ Listagem dos produtos cadastrados
-- ✅ Remoção de produtos por índice
-- ✅ Interface de menu no console
+💻 Developed by Camila Ester.
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Usados
+## ✨ Features
 
-- Java 17 (ou superior)
-- Programação Orientada a Objetos (POO)
-- Pacotes (`package`)
-- Scanner (`java.util.Scanner`)
-- `ArrayList` para armazenar os produtos
-- Estrutura de repetição e menu interativo
+✅ Register products (name, type, and price)  
+✅ List all registered products  
+✅ Remove products by index  
+✅ Interactive menu in the terminal
 
 ---
 
-## 🚀 Como Executar
+## 🛠️ Technologies and Concepts Used
 
-1. Clone o repositório:
+- Java 17 (or later)
+- Object-Oriented Programming (OOP)
+- Packages (`package`)
+- `Scanner` (java.util.Scanner)
+- `ArrayList` to store products
+- Loops and interactive menu system
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/seu-usuario/cadastro-produtos-java.git
-cd cadastro-produtos-java
+git clone https://github.com/your-username/product-registration-java.git
+cd product-registration-java
 ```
-2. Compile e execute o projeto:
+2. Compile and run the project:
 ```bash
 javac cadastro/dominio/Produto.java
 javac cadastro/console/CadastroProduto.java
